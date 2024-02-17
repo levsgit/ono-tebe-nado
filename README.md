@@ -1,7 +1,9 @@
-Задание <<Оно тебе надо>>
-Ссылка на оригинальный макет: https://www.figma.com/file/8KwhMpv8qnDocX4NVFQBpn/%D0%9E%D0%BD%D0%BE-%D1%82%D0%B5%D0%B1%D0%B5-%D0%BD%D0%B0%D0%B4%D0%BE?type=design&node-id=0-1&mode=design&t=SqsTbSNude5bAWOz-0
+# Задание <<Оно тебе надо>>
 
-**Выполнил**
-Шатров Лев
-Vips.true@yandex.ru
+## Выполнил  
+Шатров Лев  
+Vips.true@yandex.ru  
+https://github.com/levsgit/ono-tebe-nado.git  
 
+## Ссылка на оригинальный макет  
+https://www.figma.com/file/8KwhMpv8qnDocX4NVFQBpn/%D0%9E%D0%BD%D0%BE-%D1%82%D0%B5%D0%B1%D0%B5-%D0%BD%D0%B0%D0%B4%D0%BE?type=design&node-id=0-1&mode=design&t=SqsTbSNude5bAWOz-0
